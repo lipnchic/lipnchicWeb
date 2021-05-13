@@ -49,8 +49,9 @@
       <li class="active"><a href="http://localhost/LipNChic/" style="color: rgb(58,60,59);">Home</a></li>
       <li><a href="http://localhost/LipNChic/contact/" style="color: rgb(58,60,59);">Contact</a></li>
       <li><a href="http://localhost/LipNChic/about-us/" style="color: rgb(58,60,59);">About Us</a></li>
+      <li><a href="http://localhost/LipNChic/lipnchic-co-products/" style="color: rgb(58,60,59);">Product</a></li>
       <li><a href="http://localhost/LipNChic/shop/" style="color: rgb(58,60,59);">Shop</a></li>
-      <li><a href="#"><span class="glyphicon glyphicon-shopping-cart" style="font-size: 20px; color: rgb(58,60,59);"></span> Cart</a></li>
+      <li><a href="http://localhost/LipNChic/cart/"><span class="glyphicon glyphicon-shopping-cart" style="font-size: 20px; color: rgb(58,60,59);"></span> Cart</a></li>
       <li><a href="#"><span class="glyphicon glyphicon-log-in" style="font-size: 20px; color: rgb(58,60,59);"></span> Login</a></li>
     </ul>
 </nav>

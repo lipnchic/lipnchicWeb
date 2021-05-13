@@ -24,6 +24,17 @@ if ( empty( $product ) || ! $product->is_visible() ) {
 	return;
 }
 ?>
+<style type="text/css">
+	.img_size img{
+		width: 100% !important;
+		height: 300px !important;
+	}
+	
+	
+</style>
+
+<div class="text-center" style="font-family:  Edwardian Script ITC; font-size: 20px; max-width: 1150px;">
+	<div class="img_size">
 <li <?php wc_product_class( '', $product ); ?>>
 	<?php
 	/**
@@ -65,3 +76,5 @@ if ( empty( $product ) || ! $product->is_visible() ) {
 	do_action( 'woocommerce_after_shop_loop_item' );
 	?>
 </li>
+</div>
+</div>

@@ -967,3 +967,8 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
+
+.woocommerce-notices-wrapper, .woocommerce-result-count{
+	font-family:  Edwardian Script ITC !important;
+}
+
